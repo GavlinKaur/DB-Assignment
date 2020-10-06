@@ -1,0 +1,3 @@
+// actionTypes.js
+export const CREATE_NEW_EMPLOYEE = 'CREATE_NEW_EMPLOYEE';
+export const FETCH_EMPLOYEES = 'FETCH_EMPLOYEES';
